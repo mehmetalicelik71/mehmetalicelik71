@@ -1,4 +1,4 @@
-<img src="<iframe src="https://giphy.com/embed/1xpm1nTQiRL96Di3Q6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/originals-dog-puppy-poster-1xpm1nTQiRL96Di3Q6">via GIPHY</a></p>" align="right" >
+<img src="<iframe src="https://giphy.com/embed/1xpm1nTQiRL96Di3Q6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/originals-dog-puppy-poster-1xpm1nTQiRL96Di3Q6">via GIPHY</a></p>" >
 
 ### Hi , I'm Mehmet Ali👋
 - 🌱 I’m currently learning java
