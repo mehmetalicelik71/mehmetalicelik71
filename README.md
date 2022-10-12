@@ -1,4 +1,4 @@
-### Hi there, I'm Mehmet Ali👋
+### Hi , I'm Mehmet Ali👋
 
 <!--
 **mehmetalicelik71/mehmetalicelik71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
