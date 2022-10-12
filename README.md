@@ -1,5 +1,5 @@
 ### Hi , I'm Mehmet Ali👋
-## I'm junior :)
+##Software Test Engineer Student 👀
 - 🌱 I’m currently learning java
 - 🤔 I'm waiting for your help to learn java
 - 📫 How to reach me: malicelk71@gmail.com
